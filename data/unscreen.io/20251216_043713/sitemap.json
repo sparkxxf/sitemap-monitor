@@ -1,0 +1,196 @@
+{
+  "url": "https://unscreen.io/",
+  "type": "IndexWebsiteSitemap",
+  "sitemaps": [
+    {
+      "url": "https://unscreen.io/robots.txt",
+      "type": "IndexRobotsTxtSitemap",
+      "sitemaps": [
+        {
+          "url": "https://www.unscreen.io/sitemap.xml",
+          "type": "PagesXMLSitemap",
+          "sitemaps": [],
+          "pages": [
+            {
+              "url": "https://www.unscreen.io",
+              "priority": 1.0,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "daily",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/unscreen-alternative",
+              "priority": 0.9,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/unscreen-shutdown",
+              "priority": 0.9,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/api",
+              "priority": 0.8,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/pricing",
+              "priority": 0.8,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/blog",
+              "priority": 0.7,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "weekly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/legal/privacy-policy",
+              "priority": 0.3,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/legal/terms",
+              "priority": 0.3,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/legal/imprint",
+              "priority": 0.3,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/blog/best-unscreen-alternatives-2025",
+              "priority": 0.6,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/blog/free-video-background-remover-comparison",
+              "priority": 0.6,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            },
+            {
+              "url": "https://www.unscreen.io/blog/remove-video-background-without-green-screen",
+              "priority": 0.6,
+              "last_modified": "2025-12-15 22:42:20.853000+00:00",
+              "change_frequency": "monthly",
+              "news_story": null
+            }
+          ]
+        }
+      ],
+      "pages": []
+    },
+    {
+      "url": "https://unscreen.io/sitemap.xml",
+      "type": "PagesXMLSitemap",
+      "sitemaps": [],
+      "pages": [
+        {
+          "url": "https://www.unscreen.io",
+          "priority": 1.0,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "daily",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/unscreen-alternative",
+          "priority": 0.9,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/unscreen-shutdown",
+          "priority": 0.9,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/api",
+          "priority": 0.8,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "monthly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/pricing",
+          "priority": 0.8,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "monthly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/blog",
+          "priority": 0.7,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "weekly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/legal/privacy-policy",
+          "priority": 0.3,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "monthly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/legal/terms",
+          "priority": 0.3,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "monthly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/legal/imprint",
+          "priority": 0.3,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "monthly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/blog/best-unscreen-alternatives-2025",
+          "priority": 0.6,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "monthly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/blog/free-video-background-remover-comparison",
+          "priority": 0.6,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "monthly",
+          "news_story": null
+        },
+        {
+          "url": "https://www.unscreen.io/blog/remove-video-background-without-green-screen",
+          "priority": 0.6,
+          "last_modified": "2025-12-15 22:42:20.853000+00:00",
+          "change_frequency": "monthly",
+          "news_story": null
+        }
+      ]
+    }
+  ],
+  "pages": []
+}
